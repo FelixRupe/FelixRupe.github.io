@@ -5,7 +5,7 @@ h1 {
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 12px;
   padding: 0;
   overflow: hidden;
   background-color: #6ec3eb;
@@ -20,11 +20,8 @@ li a {
   display: block;
   color: rgb(104, 40, 207);
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 18px;
   text-decoration: none;
-}
- li:last-child {
-  border-block-end: none;
 }
 
 li a.active {
