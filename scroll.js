@@ -31,7 +31,7 @@ function setup() { //////////////////////////////
   for (y = -5*height; y < 5*height; y += sqr_length) {
     for(x = -5*width; x < 5*width; x += sqr_length) {
       
-      if (wacky > 0.3) {
+      if (wacky > 0.8) {
         fillcol = [
           (random(1)*width*height)/sqrt(abs(x*y)),
           (random(1)*width*height)/sqrt(abs(x*y)),
