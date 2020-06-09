@@ -9,7 +9,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #6ec3eb;
-  // border: #1d0322;
  } 
 
  li { 
@@ -20,7 +19,7 @@ li a {
   display: block;
   color: rgb(104, 40, 207);
   text-align: center;
-  padding: 12px 18px;
+  padding: 16px 20px;
   text-decoration: none;
 }
 
